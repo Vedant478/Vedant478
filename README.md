@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Shirole</h1>
-<h3 align="center">Highly skilled Full Stack Developer , designing and implementing web-based software applications.</h3>
+<h3 align="center">Data Analyst passionate about turning raw data into actionable insights</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant478&label=Profile%20views&color=0e75b6&style=flat" alt="vedant478" /> </p>
 
